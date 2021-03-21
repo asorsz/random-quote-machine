@@ -1,0 +1,21 @@
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#quote-box {
+  min-width: 600px;
+  max-width: 60vw;
+  min-height: 300px;
+  max-height: 80vh;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 15px;
+  padding: 35px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
