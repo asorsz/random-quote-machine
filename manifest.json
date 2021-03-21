@@ -1,0 +1,9 @@
+{
+  "short_name": "Random Quote Machine",
+  "name": "A random quote machine for freeCodeCamp's front-end libraries certification",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
